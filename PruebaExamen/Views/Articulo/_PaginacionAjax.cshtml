@@ -1,0 +1,19 @@
+﻿@model ArticuloXML
+
+@{
+    int anterior = 0;
+    int siguiente = 0;
+
+    if (ViewData["ANTERIOR"] != null)
+    {
+        anterior = (int)ViewData["ANTERIOR"];
+    }
+
+    if (ViewData["SIGUIENTE"] != null)
+    {
+        siguiente = (int)ViewData["SIGUIENTE"];
+    }
+}
+<button onclick="llamaAjaxAfter(@anterior)">Anterior</button>
+<h1>@Model.Nombre</h1>
+<button onclick="llamaAjaxAfter(@siguiente)">Siguiente</button>

@@ -21,11 +21,5 @@ namespace PruebaExamen.Repositories
                 .AsEnumerable().FirstOrDefault();
         }
 
-        public async Task<IActionResult> LogOut()
-        {
-            await HttpContext.SignOutAsync
-            (CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Home", "Index");
-        }
     }
 }
