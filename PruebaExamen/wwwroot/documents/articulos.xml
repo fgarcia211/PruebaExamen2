@@ -1,0 +1,56 @@
+<articulos>
+    <articulo idarticulo="1">
+        <nombre>Curry</nombre>
+        <descripcion>Plato tipico de la India donde blablabla</descripcion>
+        <calorias>100</calorias>
+        <proteinas>50</proteinas>
+        <hidratos>200</hidratos>
+        <glucosa>25</glucosa>
+        <cantidad>0</cantidad>
+    </articulo>
+    <articulo idarticulo="2">
+        <nombre>Patatas Bravas</nombre>
+        <descripcion>Plato tipico de España donde blablabla</descripcion>
+        <calorias>150</calorias>
+        <proteinas>20</proteinas>
+        <hidratos>100</hidratos>
+        <glucosa>55</glucosa>
+        <cantidad>0</cantidad>
+    </articulo>
+    <articulo idarticulo="3">
+        <nombre>Baguettes</nombre>
+        <descripcion>Plato tipico de Francia donde blablabla</descripcion>
+        <calorias>20</calorias>
+        <proteinas>10</proteinas>
+        <hidratos>40</hidratos>
+        <glucosa>10</glucosa>
+        <cantidad>0</cantidad>
+    </articulo>
+    <articulo idarticulo="4">
+        <nombre>Spaghettis</nombre>
+        <descripcion>Plato tipico de Italia donde blablabla</descripcion>
+        <calorias>50</calorias>
+        <proteinas>60</proteinas>
+        <hidratos>80</hidratos>
+        <glucosa>100</glucosa>
+        <cantidad>0</cantidad>
+    </articulo>
+    <articulo idarticulo="5">
+        <nombre>Salchichas Frankfurt</nombre>
+        <descripcion>Plato tipico de Alemania donde blablabla</descripcion>
+        <calorias>70</calorias>
+        <proteinas>10</proteinas>
+        <hidratos>150</hidratos>
+        <glucosa>85</glucosa>
+        <cantidad>0</cantidad>
+    </articulo>
+    <articulo idarticulo="6">
+        <nombre>Cocido Madrileño</nombre>
+        <descripcion>Plato tipico de Madrid donde blablabla</descripcion>
+        <calorias>100</calorias>
+        <proteinas>50</proteinas>
+        <hidratos>200</hidratos>
+        <glucosa>25</glucosa>
+        <cantidad>0</cantidad>
+    </articulo>
+</articulos>
